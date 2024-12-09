@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is the Log - in to do list app
+you have to register to use to do list and log-in!
+stay in privacy! 
+
+
 ## Available Scripts
 
 In the project directory, you can run:
